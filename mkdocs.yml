@@ -1,0 +1,27 @@
+site_name: Pink Fix
+site_description: Find, relink and pack missing textures and files in Blender
+site_url: https://itsnickp.github.io/pinkfix-docs/
+repo_url: https://github.com/itsnickp/pinkfix-docs
+repo_name: itsnickp/pinkfix-docs
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: pink
+    accent: pink
+  features:
+    - navigation.sections
+    - content.code.copy
+markdown_extensions:
+  - admonition
+  - tables
+  - pymdownx.keys
+  - toc:
+      permalink: true
+nav:
+  - Quick start: index.md
+  - Install: install.md
+  - Panels: panels.md
+  - FAQ: faq.md
+  - Connect Superhive for updates: updates.md
+  - Troubleshooting: troubleshooting.md
