@@ -14,12 +14,15 @@ theme:
     - content.code.copy
 markdown_extensions:
   - admonition
+  - attr_list
+  - md_in_html
   - tables
   - pymdownx.keys
   - toc:
       permalink: true
 nav:
   - Quick start: index.md
+  - Showcase: showcase.md
   - Install: install.md
   - Panels: panels.md
   - FAQ: faq.md

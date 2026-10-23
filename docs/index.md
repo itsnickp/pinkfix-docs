@@ -6,6 +6,8 @@ them from folders you choose, and can collect everything into one project folder
 
 Works on Blender 4.2 LTS to 5.2 LTS. It never touches the network.
 
+**[See it in action: Showcase](showcase.md)**
+
 ## Quick start
 
 1. **Scan.** In the 3D Viewport press ++n++, open the **Pink Fix** tab and click **Scan**.
